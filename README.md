@@ -25,9 +25,6 @@ This is the official implementation of **DrivingGaussian++: Towards Realistic Re
 ### Dynamic Objects Insertion
 <img src="static/images/editdynamicpress.png" width="800"/>
 
-## Demo Video
-You can find the demo video at `static/videos/demo_v2.mp4`.
-
 ## BibTeX
 ```
 @article{xiong2024drivinggaussianplus,
